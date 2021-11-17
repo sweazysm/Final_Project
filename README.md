@@ -20,7 +20,7 @@
 
 </br></br></br>
 ## Machine Learning
-
+We will attempt to use Linear Regression and Random Forest to test the data.
 
 </br></br></br>
 ## Dashboard
