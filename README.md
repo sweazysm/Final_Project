@@ -1,6 +1,11 @@
 # Final_Project
 ## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
 
+## Presentation
+
+* Selected topic: Carbon emmissions effects on severe weather events in the United States
+* Reason why the topic was selected: Carbon emmision effects on the environment has been on the steady rise 
+
 ## Datasets
   ### Available Files
   - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
