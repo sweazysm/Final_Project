@@ -9,6 +9,8 @@
 ## Datasets
   ### Available Files
   - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
+  - Storm Events: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+  - Co2 data: https://github.com/owid/co2-data
 </br></br></br>
 
 
