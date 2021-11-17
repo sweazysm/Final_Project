@@ -21,4 +21,4 @@
 </br></br></br>
 ## Communication Protocol
 
-We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meets, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
+We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meet, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
