@@ -4,13 +4,14 @@
 ## Presentation
 
 * Selected topic: Carbon emmissions effects on severe weather events in the United States
-* Reason why the topic was selected: Carbon emmision effects on the environment has been on the steady rise 
+* Reason why the topic was selected: Carbon emmision effects on the environment has been on the steady rise
+                                     The population of a country is closely related to the output of carbon emissions
+* Questions to answer:              Does Worldwide carbon emissions have effect of severe weather in the United States?
+                                     How does the population of a country effect the output of carbon emissions?
 
 ## Datasets
   ### Available Files
   - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
-  - Storm Events: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/
-  - CO2 data: https://github.com/owid/co2-data
 </br></br></br>
 
 
