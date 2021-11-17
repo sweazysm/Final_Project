@@ -1,8 +1,33 @@
 # Final_Project
-Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
+## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
+
+## Presentation
+
+* Selected topic: Carbon emmissions effects on severe weather events in the United States
+* Reason why the topic was selected: Carbon emmision effects on the environment has been on the steady rise
+                                     The population of a country is closely related to the output of carbon emissions
+* Questions to answer:              Does Worldwide carbon emissions have effect of severe weather in the United States?
+                                     How does the population of a country effect the output of carbon emissions?
+
+## Datasets
+  ### Available Files
+  - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
+  - Storm events data: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/ 
+  - Co2 data: https://github.com/owid/co2-data </br></br></br>
 
 
-- Dataset used in Cleaned Carbon was referneced from: "https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions"
-- Data was cleaned in Jupyter Notebook by removing all null values and removing all data not related to co2 emissions
-- Data was then exported as a CSV file
-- Code used to clean csv file and original data set is provided
+## Database
+
+
+</br></br></br>
+## Machine Learning
+We will attempt to use Linear Regression and Random Forest to test the data.
+
+</br></br></br>
+## Dashboard
+
+
+</br></br></br>
+## Communication Protocol
+
+We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meet, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
