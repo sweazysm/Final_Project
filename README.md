@@ -56,3 +56,12 @@ We will attempt to use Linear Regression and Random Forest to test the data.
 We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meet, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
 
 
+## Who did What
+
+#### Scott Sweazy
+- Found CSV Files
+- Cleaned up CSV Files via code
+- Worked on building GitHub Repository
+- Merged Files
+- Set-up Machine Learning (ML) Algorithms and Parameters
+- Provided many laughs and stories for team members
