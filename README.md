@@ -17,6 +17,10 @@
 
 
 ## Database
+  
+- A PostgreSQL instance has been created on the Google Cloud platform
+- Connection from our local pgAdmin to the Google Cloud PostgreSQL instance has been established
+- An empty database has been created; tables incoming shortly
 
 
 </br></br></br>
