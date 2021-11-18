@@ -1,6 +1,15 @@
 # Final_Project
 ## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
 
+
+## Datasets
+  ### Available Files
+  - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
+
+
+
+## Database
+
 ## Presentation
 
 ### Selected topic: 
@@ -28,15 +37,23 @@ How does the population of a country effect the output of carbon emissions?
 - An empty database has been created; tables incoming shortly
 
 
-</br></br></br>
+
+
 ## Machine Learning
+
+
+
 We will attempt to use Linear Regression and Random Forest to test the data.
 
-</br></br></br>
+
+
 ## Dashboard
 
 
-</br></br></br>
+
+
+
 ## Communication Protocol
 
 We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meet, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
+
