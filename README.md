@@ -47,6 +47,10 @@ We will attempt to use Linear Regression and Random Forest to test the data.
 
 ## Dashboard
 
+Use Tableau to create visualizations showing trends/patterns
+
+![vis 1](https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG)
+
 
 
 
@@ -65,3 +69,8 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Merged Files
 - Set-up Machine Learning (ML) Algorithms and Parameters
 - Provided many laughs and stories for team members
+
+#### Shalmalee Soman
+
+- Found datasets
+- created a visualization through Tableau, a map whuch shows how population of a county relates to their carbon emissions.
