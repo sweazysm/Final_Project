@@ -6,6 +6,11 @@ Final group project
 
 Plan to present through Tableau, showing an active dashboard and visuaizations comparing carbon emissions to severe weather, and population related to carbon emissions.
 
+Example of a visualization
+
+![Uploading vis 1.PNG…]()
+
+
 ## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
 
 
