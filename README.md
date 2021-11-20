@@ -1,57 +1,58 @@
-## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?!?!
+## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
 
-### Presentation
+### *Presentation*
 
 
 #### Selected topic: 
 Carbon emmissions effects on severe weather events in the United States
 
 #### Reason why the topic was selected: 
-Carbon emmision effects on the environment has been on the steady rise
-The population of a country is closely related to the output of carbon emissions
+Carbon emmision effects on the environment has risen dramatically over the last few decades.  The population and economic ranking of a country is closely related to its output of carbon emissions.  We wanted to see if a correlation between world-wide emissions and severe weather in the United States could be found and use to predict weather events.
 
 #### Questions to answer:              
-Does Worldwide carbon emissions have effect of severe weather in the United States?
-How does the population of a country effect the output of carbon emissions?
+- Does Worldwide carbon emissions have an effect on severe weather in the United States?
+- How does the population of a country effect the output of carbon emissions?
+- Does the emissions from the United States have a strong impact on the weather than world emissions?  
 
-### Datasets
-  ### Available Files
+### *Datasets*  
+  #### Available Files
   - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
   - Storm events data: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/ 
-  - Co2 data: https://github.com/owid/co2-data </br></br></br>
+  - Co2 data: https://github.com/owid/co2-data </br></br></br>  
 
 
-### Database
+### *Database*
   
-- A PostgreSQL instance has been created on the Google Cloud platform
-- Connection from our local pgAdmin to the Google Cloud PostgreSQL instance has been established
-- An empty database has been created; tables incoming shortly
+- A PostgreSQL instance has been created on the Google Cloud platform  
+- Connection from our local pgAdmin to the Google Cloud PostgreSQL instance has been established  
+- An empty database has been created; tables incoming shortly  
 
 
 
 
-### Machine Learning
+### *Machine Learning*  
+
+</br></br></br>
 
 
 
-
-
-### Dashboard
+### *Dashboard*  
 
 Use Tableau to create visualizations showing trends/patterns
-
-![vis 1](https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG)
-
-
-
+<p width="800" heigth="600" align="center">
+<img src = "https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG" width="800" heigth="600" align="center">
+</>
 
 
-### Communication Protocol
+
+
+
+### *Communication Protocol*
 
 We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meet, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
 
 
-### Deliverable 1
+### *Deliverable 1*
 
 #### Scott Sweazy
 - Found CSV Files
@@ -62,7 +63,6 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Provided many laughs and stories for team members
 
 #### Shalmalee Soman
-
 - Found datasets
 - created a visualization through Tableau, a map whuch shows how population of a county relates to their carbon emissions.
 
