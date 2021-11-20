@@ -32,7 +32,9 @@ Carbon emmision effects on the environment has risen dramatically over the last 
 
 ### *Machine Learning*  
 
-</br></br></br>
+- Machine learning models are set up based on the combined datasets of co2 emissions and severe weather
+- Data sets were joined on the "Year" column
+- Machine learning algorithms to be tested are SKLearn's "Linear Regression" and imblearn.ensemble's "RandomForestClassifier"
 
 
 
@@ -61,6 +63,7 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Merged Files
 - Set-up Machine Learning (ML) Algorithms and Parameters
 - Provided many laughs and stories for team members
+- Contributed to ReadMe
 
 #### Shalmalee Soman
 - Found datasets
@@ -76,7 +79,9 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 
   
 #### Amilcar Vargas
-- 
-- 
-- 
--
+- Has the coolest first name
+- Spiritual Guidance
+- Created online databases to store data
+- Work with PGAdmin to connect data from database
+- Cleaned up CSV files
+- Contributed to ReadMe
