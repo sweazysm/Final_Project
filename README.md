@@ -74,3 +74,9 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 -	Modified ReadMe file
 -	Created test datasets
 
+  
+#### Amilcar Vargas
+- 
+- 
+- 
+-
