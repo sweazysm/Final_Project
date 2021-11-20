@@ -25,8 +25,9 @@ Carbon emmision effects on the environment has risen dramatically over the last 
   
 - A PostgreSQL instance has been created on the Google Cloud platform  
 - Connection from our local pgAdmin to the Google Cloud PostgreSQL instance has been established  
-- An empty database has been created; tables incoming shortly  
-
+- A database and 2 tables have been created to store Severe Weather Events and Worldwide Co2 Emissions since 1950
+  
+![DatabaseDiagram](https://user-images.githubusercontent.com/85706721/142742365-bc1d980b-64c3-4a52-8641-26d2d05d94ed.png)
 
 
 
@@ -79,9 +80,7 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 
   
 #### Amilcar Vargas
-- Has the coolest first name
-- Spiritual Guidance
-- Created online databases to store data
+- Created online database to store data
 - Work with PGAdmin to connect data from database
-- Cleaned up CSV files
+- Cleaned up and merged CSV files using Python and Pandas for Severe Weather and Co2 emission data
 - Contributed to ReadMe
