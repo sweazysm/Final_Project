@@ -12,7 +12,7 @@ Carbon emmision effects on the environment has risen dramatically over the last 
 #### Questions to answer:              
 - Does Worldwide carbon emissions have an effect on severe weather in the United States?
 - How does the population of a country effect the output of carbon emissions?
-- Does the emissions from the United States have a strong impact on the weather than world emissions?  
+- Does the emissions from the United States have a stronger impact on the U.S. weather than world emissions?  
 
 ### *Datasets*  
   #### Available Files
