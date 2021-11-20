@@ -14,7 +14,7 @@ Carbon emmision effects on the environment has risen dramatically over the last 
 - How does the population of a country effect the output of carbon emissions?
 - Does the emissions from the United States have a stronger impact on the U.S. weather than world emissions?  
 
-### *Datasets*  
+### *Data Sources*  
   #### Available Files
   - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
   - Storm events data: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/ 
