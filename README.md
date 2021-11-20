@@ -64,7 +64,9 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 
 #### Shalmalee Soman
 - Found datasets
-- created a visualization through Tableau, a map whuch shows how population of a county relates to their carbon emissions.
+- created a visualization through Tableau 
+- created a map whuch shows how population of a county relates to their carbon emissions.
+- contributed to ReadMe
 
 
 #### Cindy
