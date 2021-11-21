@@ -77,6 +77,7 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 -	Searched for potential datasets
 -	Modified ReadMe file
 -	Created test datasets
+- Researched machine learning models   
 
   
 #### Amilcar Vargas
