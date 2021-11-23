@@ -85,3 +85,4 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Work with PGAdmin to connect data from database
 - Cleaned up and merged CSV files using Python and Pandas for Severe Weather and Co2 emission data
 - Contributed to ReadMe
+- Spiritual Guidance
