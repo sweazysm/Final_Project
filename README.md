@@ -6,6 +6,8 @@ Final group project
 
 Plan to present through Tableau, showing an active dashboard and visuaizations comparing carbon emissions to severe weather, and population related to carbon emissions.
 
+![practice](https://user-images.githubusercontent.com/86750935/142960543-f17af71f-2a8a-46b9-bc41-456ebb3934ad.PNG)
+
 Example of a visualization
 
 ![vis 1](https://user-images.githubusercontent.com/86750935/142737954-2e430047-f196-415f-b842-5d3a617345e8.PNG) 
