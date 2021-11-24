@@ -1,0 +1,193 @@
+Year,Number of Events by Year,Month,Number of Events by Month,Event Type,Event Count
+1950,5,December,29,Blizzard,20
+1950,5,December,29,Heavy Snow,5
+1950,5,December,29,Lightning,118
+1950,5,December,29,Tornado,146
+1950,5,January,48,Blizzard,20
+1950,5,January,48,Heavy Snow,5
+1950,5,January,48,Lightning,118
+1950,5,January,48,Tornado,146
+1950,5,June,175,Blizzard,20
+1950,5,June,175,Heavy Snow,5
+1950,5,June,175,Lightning,118
+1950,5,June,175,Tornado,146
+1950,5,October,37,Blizzard,20
+1950,5,October,37,Heavy Snow,5
+1950,5,October,37,Lightning,118
+1950,5,October,37,Tornado,146
+1955,4,December,29,Blizzard,20
+1955,4,December,29,Heavy Snow,5
+1955,4,December,29,Lightning,118
+1955,4,December,29,Tornado,146
+1955,4,January,48,Blizzard,20
+1955,4,January,48,Heavy Snow,5
+1955,4,January,48,Lightning,118
+1955,4,January,48,Tornado,146
+1955,4,June,175,Blizzard,20
+1955,4,June,175,Heavy Snow,5
+1955,4,June,175,Lightning,118
+1955,4,June,175,Tornado,146
+1955,4,October,37,Blizzard,20
+1955,4,October,37,Heavy Snow,5
+1955,4,October,37,Lightning,118
+1955,4,October,37,Tornado,146
+1964,10,December,29,Blizzard,20
+1964,10,December,29,Heavy Snow,5
+1964,10,December,29,Lightning,118
+1964,10,December,29,Tornado,146
+1964,10,January,48,Blizzard,20
+1964,10,January,48,Heavy Snow,5
+1964,10,January,48,Lightning,118
+1964,10,January,48,Tornado,146
+1964,10,June,175,Blizzard,20
+1964,10,June,175,Heavy Snow,5
+1964,10,June,175,Lightning,118
+1964,10,June,175,Tornado,146
+1964,10,October,37,Blizzard,20
+1964,10,October,37,Heavy Snow,5
+1964,10,October,37,Lightning,118
+1964,10,October,37,Tornado,146
+1967,26,December,29,Blizzard,20
+1967,26,December,29,Heavy Snow,5
+1967,26,December,29,Lightning,118
+1967,26,December,29,Tornado,146
+1967,26,January,48,Blizzard,20
+1967,26,January,48,Heavy Snow,5
+1967,26,January,48,Lightning,118
+1967,26,January,48,Tornado,146
+1967,26,June,175,Blizzard,20
+1967,26,June,175,Heavy Snow,5
+1967,26,June,175,Lightning,118
+1967,26,June,175,Tornado,146
+1967,26,October,37,Blizzard,20
+1967,26,October,37,Heavy Snow,5
+1967,26,October,37,Lightning,118
+1967,26,October,37,Tornado,146
+1973,28,December,29,Blizzard,20
+1973,28,December,29,Heavy Snow,5
+1973,28,December,29,Lightning,118
+1973,28,December,29,Tornado,146
+1973,28,January,48,Blizzard,20
+1973,28,January,48,Heavy Snow,5
+1973,28,January,48,Lightning,118
+1973,28,January,48,Tornado,146
+1973,28,June,175,Blizzard,20
+1973,28,June,175,Heavy Snow,5
+1973,28,June,175,Lightning,118
+1973,28,June,175,Tornado,146
+1973,28,October,37,Blizzard,20
+1973,28,October,37,Heavy Snow,5
+1973,28,October,37,Lightning,118
+1973,28,October,37,Tornado,146
+1980,14,December,29,Blizzard,20
+1980,14,December,29,Heavy Snow,5
+1980,14,December,29,Lightning,118
+1980,14,December,29,Tornado,146
+1980,14,January,48,Blizzard,20
+1980,14,January,48,Heavy Snow,5
+1980,14,January,48,Lightning,118
+1980,14,January,48,Tornado,146
+1980,14,June,175,Blizzard,20
+1980,14,June,175,Heavy Snow,5
+1980,14,June,175,Lightning,118
+1980,14,June,175,Tornado,146
+1980,14,October,37,Blizzard,20
+1980,14,October,37,Heavy Snow,5
+1980,14,October,37,Lightning,118
+1980,14,October,37,Tornado,146
+1986,5,December,29,Blizzard,20
+1986,5,December,29,Heavy Snow,5
+1986,5,December,29,Lightning,118
+1986,5,December,29,Tornado,146
+1986,5,January,48,Blizzard,20
+1986,5,January,48,Heavy Snow,5
+1986,5,January,48,Lightning,118
+1986,5,January,48,Tornado,146
+1986,5,June,175,Blizzard,20
+1986,5,June,175,Heavy Snow,5
+1986,5,June,175,Lightning,118
+1986,5,June,175,Tornado,146
+1986,5,October,37,Blizzard,20
+1986,5,October,37,Heavy Snow,5
+1986,5,October,37,Lightning,118
+1986,5,October,37,Tornado,146
+1989,17,December,29,Blizzard,20
+1989,17,December,29,Heavy Snow,5
+1989,17,December,29,Lightning,118
+1989,17,December,29,Tornado,146
+1989,17,January,48,Blizzard,20
+1989,17,January,48,Heavy Snow,5
+1989,17,January,48,Lightning,118
+1989,17,January,48,Tornado,146
+1989,17,June,175,Blizzard,20
+1989,17,June,175,Heavy Snow,5
+1989,17,June,175,Lightning,118
+1989,17,June,175,Tornado,146
+1989,17,October,37,Blizzard,20
+1989,17,October,37,Heavy Snow,5
+1989,17,October,37,Lightning,118
+1989,17,October,37,Tornado,146
+1997,78,December,29,Blizzard,20
+1997,78,December,29,Heavy Snow,5
+1997,78,December,29,Lightning,118
+1997,78,December,29,Tornado,146
+1997,78,January,48,Blizzard,20
+1997,78,January,48,Heavy Snow,5
+1997,78,January,48,Lightning,118
+1997,78,January,48,Tornado,146
+1997,78,June,175,Blizzard,20
+1997,78,June,175,Heavy Snow,5
+1997,78,June,175,Lightning,118
+1997,78,June,175,Tornado,146
+1997,78,October,37,Blizzard,20
+1997,78,October,37,Heavy Snow,5
+1997,78,October,37,Lightning,118
+1997,78,October,37,Tornado,146
+2003,16,December,29,Blizzard,20
+2003,16,December,29,Heavy Snow,5
+2003,16,December,29,Lightning,118
+2003,16,December,29,Tornado,146
+2003,16,January,48,Blizzard,20
+2003,16,January,48,Heavy Snow,5
+2003,16,January,48,Lightning,118
+2003,16,January,48,Tornado,146
+2003,16,June,175,Blizzard,20
+2003,16,June,175,Heavy Snow,5
+2003,16,June,175,Lightning,118
+2003,16,June,175,Tornado,146
+2003,16,October,37,Blizzard,20
+2003,16,October,37,Heavy Snow,5
+2003,16,October,37,Lightning,118
+2003,16,October,37,Tornado,146
+2005,38,December,29,Blizzard,20
+2005,38,December,29,Heavy Snow,5
+2005,38,December,29,Lightning,118
+2005,38,December,29,Tornado,146
+2005,38,January,48,Blizzard,20
+2005,38,January,48,Heavy Snow,5
+2005,38,January,48,Lightning,118
+2005,38,January,48,Tornado,146
+2005,38,June,175,Blizzard,20
+2005,38,June,175,Heavy Snow,5
+2005,38,June,175,Lightning,118
+2005,38,June,175,Tornado,146
+2005,38,October,37,Blizzard,20
+2005,38,October,37,Heavy Snow,5
+2005,38,October,37,Lightning,118
+2005,38,October,37,Tornado,146
+2010,48,December,29,Blizzard,20
+2010,48,December,29,Heavy Snow,5
+2010,48,December,29,Lightning,118
+2010,48,December,29,Tornado,146
+2010,48,January,48,Blizzard,20
+2010,48,January,48,Heavy Snow,5
+2010,48,January,48,Lightning,118
+2010,48,January,48,Tornado,146
+2010,48,June,175,Blizzard,20
+2010,48,June,175,Heavy Snow,5
+2010,48,June,175,Lightning,118
+2010,48,June,175,Tornado,146
+2010,48,October,37,Blizzard,20
+2010,48,October,37,Heavy Snow,5
+2010,48,October,37,Lightning,118
+2010,48,October,37,Tornado,146
