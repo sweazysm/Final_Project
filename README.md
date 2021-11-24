@@ -73,7 +73,7 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - contributed to ReadMe
 
 
-#### Cindy
+#### Cindy McCracken
 -	Searched for potential datasets
 -	Modified ReadMe file
 -	Created test datasets
@@ -86,3 +86,15 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Cleaned up and merged CSV files using Python and Pandas for Severe Weather and Co2 emission data
 - Contributed to ReadMe
 - Spiritual Guidance
+
+  
+### *Deliverable 2*
+
+#### Scott Sweazy
+  
+#### Shalmalee Soman
+  
+#### Cindy McCracken
+
+#### Amilcar Vargas
+  
