@@ -91,10 +91,17 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 ### *Deliverable 2*
 
 #### Scott Sweazy
+ - Pogchamp
+ - Updated ReadME file
+ - Reformatted and refactored code for a smoother running code
+ - Set up Machine Learning algorithms
+ - Researched Machine Learning algorithms to determine best one(s) to be used
   
 #### Shalmalee Soman
+- Egg
   
 #### Cindy McCracken
-
-#### Amilcar Vargas
+- Philosophical Juggernaut
   
+#### Amilcar Vargas
+- Spititual Guidance
