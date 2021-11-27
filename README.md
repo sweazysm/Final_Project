@@ -33,7 +33,7 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
 - Connection from our local pgAdmin to the Google Cloud PostgreSQL instance has been established  
 - A database and 2 tables have been created to store Severe Weather Events and Worldwide Co2 Emissions since 1950
   
-![DatabaseDiagram](https://user-images.githubusercontent.com/85706721/142742365-bc1d980b-64c3-4a52-8641-26d2d05d94ed.png)
+![DatabaseDiagram2](https://user-images.githubusercontent.com/85706721/143723725-ff1f0c67-beaf-452f-916e-c0c6f89992d4.png)
 
 
 ### *Machine Learning*  
