@@ -1,15 +1,16 @@
-## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
+# Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
 
-### *Presentation*
+## *Presentation*
 
 
-#### Selected topic: 
+## Selected topic: 
 Carbon emmissions effects on severe weather events in the United States
 
-#### Reason why the topic was selected: 
-Carbon emmision effects on the environment has risen dramatically over the last few decades.  The population and economic ranking of a country is closely related to its output of carbon emissions.  We wanted to see if a correlation between world-wide emissions and severe weather in the United States could be found and use to predict weather events.
+### Reason why the topic was selected: 
 
-#### Questions to answer:              
+Carbon (co2) emmisions effects on the environment has risen dramatically over the last few decades, and we intend to show this with our data.  We intend to show that the human population and economic ranking of a country is closely related to said country's output of carbon emissions.  We want to show a correlation between world-wide emissions and severe weather in the United States by using machine learning algorithms predict weather events. The topic of co2 has come back into the public eye, amongst many reasons, due to the shutdown of the world in 2020. Co2 emission levels plumeted as humanity was forced to quarantine. Nature returned to flourish and carbon emission levels began to take a dive. It is not something that often crosses one's mind when going throughout daily life, only perhaps when choosing options that are labled as "environmentally friendly" or the like. Despite our aloofness, small changes towards and againist co2 emissions have effects, and one of the things affected is the weather. In particular, severe weather. Lightning, blizzards, tornadoes etc. Does this increase in co2 emissions correlate to increased severe weather evenets? Can we predict this using Machine Learning? Lets find out! 
+
+### Questions to answer:              
 - Does Worldwide carbon emissions have an effect on severe weather in the United States?
 - How does the population of a country effect the output of carbon emissions?
 - Does the emissions from the United States have a stronger impact on the U.S. weather than world emissions?  
@@ -30,13 +31,15 @@ Carbon emmision effects on the environment has risen dramatically over the last 
 ![DatabaseDiagram](https://user-images.githubusercontent.com/85706721/142742365-bc1d980b-64c3-4a52-8641-26d2d05d94ed.png)
 
 
-
 ### *Machine Learning*  
 
 - Machine learning models are set up based on the combined datasets of co2 emissions and severe weather
 - Data sets were joined on the "Year" column
 - Machine learning algorithms to be tested are SKLearn's "Linear Regression" and imblearn.ensemble's "RandomForestClassifier"
 
+### Ensemble Learning
+
+Our project deals with predictive outcomes. Specifically, which machine learning algorithm has the best predictive outcome when compared to the actual data. We train an algorithm on a chunk of the data and then see how best it's predictions line up with the actual data set. From this, it is best advised to use Ensemble Learning (EL). EL deals with multiple algorithms in order to obtain the best predictions of a set(s) of data as opposed to using one ML algorithm alone. In the vein of EL we implimented ML algorithsm such as RandomBasicForestClassifier and AdaBoost in order to determine predictive performance. 
 
 
 ### *Dashboard*  
@@ -47,15 +50,12 @@ Use Tableau to create visualizations showing trends/patterns
 </>
 
 
-
-
-
 ### *Communication Protocol*
 
 We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meet, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
 
 
-### *Deliverable 1*
+## *Deliverable 1*
 
 #### Scott Sweazy
 - Found CSV Files
