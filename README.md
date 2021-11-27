@@ -20,6 +20,11 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
   - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
   - Storm events data: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/ 
   - Co2 data: https://github.com/owid/co2-data </br></br></br>  
+  
+  #### Why this Data
+  - The World Bank's C02 emissions data yielded a wide variety of stats and categories in relation to C02 emissions. From Gas and C02, Machine Emissions, Cement Emissions etc. You name it, it had it. Spanning from 1950 past the 2000s, this dataset gives us plenty of data to test and expand upon for our Machine Learning models.
+  - Storm Events Data was used because it yielded specific Severe Weather Events that could be counted and organized. This allows us to expand upon data to deliver answers such as, "What Severe Weather event occured the most in Texas in 1977?" The specificity of our data has increased as a result.
+  - The C02 Data from OWID/GitHub was used because it gave us C02 emissions by country across years in a simple and concise format. This was combined with The World Bank's C02 data to create a more useful Dataframe to use.
 
 
 ### *Database*
@@ -41,10 +46,14 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
 
 Our project deals with predictive outcomes. Specifically, which machine learning algorithm has the best predictive outcome when compared to the actual data. We train an algorithm on a chunk of the data and then see how best it's predictions line up with the actual data set. From this, it is best advised to use Ensemble Learning (EL). EL deals with multiple algorithms in order to obtain the best predictions of a set(s) of data as opposed to using one ML algorithm alone. In the vein of EL we implimented ML algorithsm such as RandomBasicForestClassifier and AdaBoost in order to determine predictive performance. 
 
+### Supervised Learning
+
+Our project's ML algorithms will focus on Supervised Learning. Supervised Learning essentially deals with feeding a ML algorithm inputs and outputs from a set of data in order to teach it. From this data, the ML algorithm then does it's best to predict future outcomes. With this we will feed the ML algorithm, specifically an Ensemble Learner, Supervised Learning data from a good portion of our whole data set. From this we will then determine which ML algorithm makes the best predictions based on the actual data that we have.
+
 
 ### *Dashboard*  
 
-Use Tableau to create visualizations showing trends/patterns
+The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.
 <p width="800" heigth="600" align="center">
 <img src = "https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG" width="800" heigth="600" align="center">
 </>
@@ -52,7 +61,7 @@ Use Tableau to create visualizations showing trends/patterns
 
 ### *Communication Protocol*
 
-We all plan to meet Monday through Thursday evenings and Saturday afternoons, through Google Meet. During the times we do not meet over Google Meet, we communicate via Slack, and have a shared google doc that each member can edit at any given time.
+We all plan to meet Monday through Thursday evenings and Saturday afternoons, through either Google Meet or Zoom. During the times we do not meet over Google Meet we communicate via Slack and have a shared google doc that each member can edit at any given time. Meetings for Monday and Wednesday generally last 2 hours while meetings on all other days generally last 1-2 hours. Communication via Slack is daily and each team member aids in helping other team members where problems may arise. This includes issue in code, issues in visualizations, issues with ETLs etc. 
 
 
 ## *Deliverable 1*
@@ -96,12 +105,17 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
  - Reformatted and refactored code for a smoother running code
  - Set up Machine Learning algorithms
  - Researched Machine Learning algorithms to determine best one(s) to be used
+ - Helped on the decision on Emsemble Learning and Supervised Learning
   
 #### Shalmalee Soman
 - Egg
   
 #### Cindy McCracken
+- Updated ReadME file
 - Philosophical Juggernaut
+- Researched Machine Learning algorithms to determine best one(s) to be used
   
 #### Amilcar Vargas
 - Spititual Guidance
+- Helped on the decision on Emsemble Learning and Supervised Learning
+- Researched Machine Learning algorithms to determine best one(s) to be used
