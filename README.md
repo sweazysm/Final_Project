@@ -10,9 +10,7 @@ Plan to present through Tableau, showing an active dashboard and visuaizations c
 
 Example of a visualization
 
-![vis 1](https://user-images.githubusercontent.com/86750935/142737954-2e430047-f196-415f-b842-5d3a617345e8.PNG) 
-
-
+![US Emissions by Year](https://user-images.githubusercontent.com/86750935/143719726-83a5a21e-8d5c-4ef4-8414-4f2d3187292e.PNG)
 ## Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
 
 
