@@ -26,6 +26,9 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
   - Storm Events Data was used because it yielded specific Severe Weather Events that could be counted and organized. This allows us to expand upon data to deliver answers such as, "What Severe Weather event occured the most in Texas in 1977?" The specificity of our data has increased as a result.
   - The C02 Data from OWID/GitHub was used because it gave us C02 emissions by country across years in a simple and concise format. This was combined with The World Bank's C02 data to create a more useful Dataframe to use.
 
+### Google Slides
+We are working on creating our presentation on Google Slides. https://docs.google.com/presentation/d/1YUyPBFRM54EqJKVPtjYYwc6CXtDkhKhry5Eujj84ILs/edit?usp=sharing
+
 
 # *Database*
   
