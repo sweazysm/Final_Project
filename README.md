@@ -42,6 +42,17 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
 - Data sets were joined on the "Year" column
 - Machine learning algorithms to be tested are SKLearn's "Linear Regression" and imblearn.ensemble's "RandomForestClassifier"
 
+### Preliminary Data Processing
+
+Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. Dataframes were created and merged together, unnecessary columns and rows with null-values were removed. After all data was procesed, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning. 
+
+Data features were chosen based on what was being tested. Data features were wittled down to co2 emissions, co2 emissions per capta, event type, year, month, and count. Data dealing with population and other specifics were created separatley for visualization purposes. 
+
+Data was split into traning and testing groups on the "Count" section as we are testing to see if our machine learning algorithms can accurately predict the number of events that occur for each event type as a result of co2 emissions.
+
+The models chosen were the BalancedRandomForestClassifier and Easy Ensemble (Adaboost) Classifier, both of which impliment ensemble learning. Both were used in conjuction with supervised learning. Both Ensemble and Supervised Learning are discussed below.
+
+
 ### Ensemble Learning
 
 Our project deals with predictive outcomes. Specifically, which machine learning algorithm has the best predictive outcome when compared to the actual data. We train an algorithm on a chunk of the data and then see how best it's predictions line up with the actual data set. From this, it is best advised to use Ensemble Learning (EL). EL deals with multiple algorithms in order to obtain the best predictions of a set(s) of data as opposed to using one ML algorithm alone. In the vein of EL we implimented ML algorithsm such as RandomBasicForestClassifier and AdaBoost in order to determine predictive performance. 
