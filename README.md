@@ -71,6 +71,9 @@ The biggest limitation to what is being done (in regards to Machine Learning) is
 The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.
 <p width="800" heigth="600" align="center">
 <img src = "https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG" width="800" heigth="600" align="center">
+
+![US Emissions by Year](https://user-images.githubusercontent.com/86750935/143789052-e4808f40-ffdb-4adf-b407-9bf249ec2107.PNG)
+
 </>
 
 
@@ -123,7 +126,10 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
  - Worked on Google Slides for presentation
   
 #### Shalmalee Soman
-- Egg
+- Updated ReadMe
+- Upddated Google Slides
+- Created new visualizations
+- Started a dashboard
   
 #### Cindy McCracken
 - Updated ReadME file
