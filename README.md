@@ -6,28 +6,28 @@
 ## Selected topic: 
 Carbon emmissions effects on severe weather events in the United States
 
-### Reason why the topic was selected: 
+## Reason why the topic was selected: 
 
 Carbon (co2) emmisions effects on the environment has risen dramatically over the last few decades, and we intend to show this with our data.  We intend to show that the human population and economic ranking of a country is closely related to said country's output of carbon emissions.  We want to show a correlation between world-wide emissions and severe weather in the United States by using machine learning algorithms predict weather events. The topic of co2 has come back into the public eye, amongst many reasons, due to the shutdown of the world in 2020. Co2 emission levels plumeted as humanity was forced to quarantine. Nature returned to flourish and carbon emission levels began to take a dive. It is not something that often crosses one's mind when going throughout daily life, only perhaps when choosing options that are labled as "environmentally friendly" or the like. Despite our aloofness, small changes towards and againist co2 emissions have effects, and one of the things affected is the weather. In particular, severe weather. Lightning, blizzards, tornadoes etc. Does this increase in co2 emissions correlate to increased severe weather evenets? Can we predict this using Machine Learning? Lets find out! 
 
-### Questions to answer:              
+## Questions to answer:              
 - Does Worldwide carbon emissions have an effect on severe weather in the United States?
 - How does the population of a country effect the output of carbon emissions?
 - Does the emissions from the United States have a stronger impact on the U.S. weather than world emissions?  
 
-### *Data Sources*  
+## *Data Sources*  
   #### Available Files
   - The World Bank - CO2 emissions 1960-2018 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
   - Storm events data: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/ 
   - Co2 data: https://github.com/owid/co2-data </br></br></br>  
   
-  #### Why this Data
+  ### Why this Data
   - The World Bank's C02 emissions data yielded a wide variety of stats and categories in relation to C02 emissions. From Gas and C02, Machine Emissions, Cement Emissions etc. You name it, it had it. Spanning from 1950 past the 2000s, this dataset gives us plenty of data to test and expand upon for our Machine Learning models.
   - Storm Events Data was used because it yielded specific Severe Weather Events that could be counted and organized. This allows us to expand upon data to deliver answers such as, "What Severe Weather event occured the most in Texas in 1977?" The specificity of our data has increased as a result.
   - The C02 Data from OWID/GitHub was used because it gave us C02 emissions by country across years in a simple and concise format. This was combined with The World Bank's C02 data to create a more useful Dataframe to use.
 
 
-### *Database*
+# *Database*
   
 - A PostgreSQL instance has been created on the Google Cloud platform  
 - Connection from our local pgAdmin to the Google Cloud PostgreSQL instance has been established  
@@ -66,7 +66,7 @@ Our project's ML algorithms will focus on Supervised Learning. Supervised Learni
 The biggest limitation to what is being done (in regards to Machine Learning) is that we are limited only to the data fed into the machine learning algorithm. Because we are using Supervised Learning, it is limited to using only the patterns fed into it. It cannot learn patterns on its own that are not classified or labeled. If an event arises that is not accounted for, it cannot be learned. When it comes to ensemble learning, ensemble learning models cannot work with unknown differences between sample and population.
 
 
-### *Dashboard*  
+# *Dashboard*  
 
 The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.
 <p width="800" heigth="600" align="center">
@@ -74,7 +74,7 @@ The visualization software known as "Tableau" will be used to create visualizati
 </>
 
 
-### *Communication Protocol*
+# *Communication Protocol*
 
 We all plan to meet Monday through Thursday evenings and Saturday afternoons, through either Google Meet or Zoom. During the times we do not meet over Google Meet we communicate via Slack and have a shared google doc that each member can edit at any given time. Meetings for Monday and Wednesday generally last 2 hours while meetings on all other days generally last 1-2 hours. Communication via Slack is daily and each team member aids in helping other team members where problems may arise. This includes issue in code, issues in visualizations, issues with ETLs etc. 
 
