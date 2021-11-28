@@ -45,7 +45,7 @@ We are working on creating our presentation on Google Slides. https://docs.googl
 - Data sets were joined on the "Year" column
 - Machine learning algorithms to be tested are imblearn.ensemble's "RandomForestClassifier" and "Easy Ensemble (Adaboost) Classifier"
 
-### Preliminary Data Processing
+### Preliminary Data Processing, Data Engineering, Features, Training and Testing
 
 Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. Dataframes were created and merged together, unnecessary columns and rows with null-values were removed. After all data was procesed, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning. 
 
