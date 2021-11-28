@@ -36,11 +36,11 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
 ![DatabaseDiagram2](https://user-images.githubusercontent.com/85706721/143723725-ff1f0c67-beaf-452f-916e-c0c6f89992d4.png)
 
 
-### *Machine Learning*  
+# *Machine Learning*  
 
 - Machine learning models are set up based on the combined datasets of co2 emissions and severe weather
 - Data sets were joined on the "Year" column
-- Machine learning algorithms to be tested are SKLearn's "Linear Regression" and imblearn.ensemble's "RandomForestClassifier"
+- Machine learning algorithms to be tested are imblearn.ensemble's "RandomForestClassifier" and "Easy Ensemble (Adaboost) Classifier"
 
 ### Preliminary Data Processing
 
@@ -55,11 +55,15 @@ The models chosen were the BalancedRandomForestClassifier and Easy Ensemble (Ada
 
 ### Ensemble Learning
 
-Our project deals with predictive outcomes. Specifically, which machine learning algorithm has the best predictive outcome when compared to the actual data. We train an algorithm on a chunk of the data and then see how best it's predictions line up with the actual data set. From this, it is best advised to use Ensemble Learning (EL). EL deals with multiple algorithms in order to obtain the best predictions of a set(s) of data as opposed to using one ML algorithm alone. In the vein of EL we implimented ML algorithsm such as RandomBasicForestClassifier and AdaBoost in order to determine predictive performance. 
+Our project deals with predictive outcomes. Specifically, which machine learning algorithm has the best predictive outcome when compared to the actual data. We train an algorithm on a chunk of the data and then see how best it's predictions line up with the actual data set. From this, it is best advised to use Ensemble Learning (EL). EL deals with multiple algorithms in order to obtain the best predictions of a set(s) of data as opposed to using one ML algorithm alone. In the vein of EL we implimented ML algorithsm such as RandomBasicForestClassifier and AdaBoost in order to determine predictive performance.
 
 ### Supervised Learning
 
 Our project's ML algorithms will focus on Supervised Learning. Supervised Learning essentially deals with feeding a ML algorithm inputs and outputs from a set of data in order to teach it. From this data, the ML algorithm then does it's best to predict future outcomes. With this we will feed the ML algorithm, specifically an Ensemble Learner, Supervised Learning data from a good portion of our whole data set. From this we will then determine which ML algorithm makes the best predictions based on the actual data that we have.
+
+### Limitations
+
+The biggest limitation to what is being done (in regards to Machine Learning) is that we are limited only to the data fed into the machine learning algorithm. Because we are using Supervised Learning, it is limited to using only the patterns fed into it. It cannot learn patterns on its own that are not classified or labeled. If an event arises that is not accounted for, it cannot be learned. When it comes to ensemble learning, ensemble learning models cannot work with unknown differences between sample and population.
 
 
 ### *Dashboard*  
@@ -111,12 +115,12 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 ### *Deliverable 2*
 
 #### Scott Sweazy
- - Pogchamp
  - Updated ReadME file
  - Reformatted and refactored code for a smoother running code
  - Set up Machine Learning algorithms
  - Researched Machine Learning algorithms to determine best one(s) to be used
  - Helped on the decision on Emsemble Learning and Supervised Learning
+ - Worked on Google Slides for presentation
   
 #### Shalmalee Soman
 - Egg
@@ -131,3 +135,4 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Helped with Machine Learning code
 - Helped on the decision on Emsemble Learning and Supervised Learning
 - Researched Machine Learning algorithms to determine best one(s) to be used
+- Spiritual Guidance
