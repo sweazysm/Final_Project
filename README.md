@@ -76,9 +76,10 @@ The visualization software known as "Tableau" will be used to create visualizati
 <p width="800" heigth="600" align="center">
 <img src = "https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG" width="800" heigth="600" align="center">
   
-
+  
 ![US Emissions by Year](https://user-images.githubusercontent.com/86750935/143789052-e4808f40-ffdb-4adf-b407-9bf249ec2107.PNG)
 
+![worldwide carbon emissions](https://user-images.githubusercontent.com/86750935/143790000-602571c4-f22f-4091-87ab-432904b427e5.PNG)
 
 
 
