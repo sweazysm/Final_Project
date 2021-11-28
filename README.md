@@ -129,6 +129,7 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Updated ReadME file
 - Philosophical Juggernaut
 - Researched Machine Learning algorithms to determine best one(s) to be used
+- Created Google Slides
   
 #### Amilcar Vargas
 - Updated CreateSchema.sql code and ERD to show correct data types
