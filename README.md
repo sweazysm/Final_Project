@@ -74,7 +74,7 @@ The visualization software known as "Tableau" will be used to create visualizati
 
 ![US Emissions by Year](https://user-images.githubusercontent.com/86750935/143789052-e4808f40-ffdb-4adf-b407-9bf249ec2107.PNG)
 
-</>
+
 
 
 # *Communication Protocol*
