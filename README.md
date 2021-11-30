@@ -181,3 +181,13 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Researched Machine Learning algorithms to determine best one(s) to be used
 - Updated Machine Learning code to pull data from the database instead of CSV files
 
+
+  ### *Deliverable 3*
+  
+  #### Scott Sweazy
+  
+  #### Shalmalee Soman
+  
+  #### Cindy McCracken
+  
+  #### Amilcar Vargas
