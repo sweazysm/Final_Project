@@ -93,15 +93,13 @@ The models were trained on the data in regards to event type counts and carbon e
 
 The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.  The visualizations will be added to a dashboard and shown on Google Slides.
 
+![draft1](https://user-images.githubusercontent.com/86750935/144114067-f0c30390-38da-4a0e-a817-58eb64f4712d.PNG)
 
-<p width="800" heigth="600" align="center">
-<img src = "https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG" width="800" heigth="600" align="center">
-  
-  
-![US Emissions by Year](https://user-images.githubusercontent.com/86750935/143789052-e4808f40-ffdb-4adf-b407-9bf249ec2107.PNG)
 
-![worldwide carbon emissions](https://user-images.githubusercontent.com/86750935/143790000-602571c4-f22f-4091-87ab-432904b427e5.PNG)
+![draft2](https://user-images.githubusercontent.com/86750935/144114028-d3e42567-da20-49a6-83aa-772dcbc743b6.PNG)
 
+
+![draft3](https://user-images.githubusercontent.com/86750935/144113996-04596d98-fe2d-4f6b-8b28-25fed9f20099.PNG)
 
 
 
@@ -174,7 +172,9 @@ The visualization software known as "Tableau" will be used to create visualizati
   #### Scott Sweazy
   
   #### Shalmalee Soman
-  
+  * created the first draft of Tableau story
+  * contributed to ReadME
+  * edited and committed changes to the data visaluizations
   #### Cindy McCracken
   
   #### Amilcar Vargas
