@@ -114,9 +114,6 @@ The visualization software known as "Tableau" will be used to create visualizati
 
 
 
-# *Communication Protocol*
-
-We all plan to meet Monday through Thursday evenings and Saturday afternoons, through either Google Meet or Zoom. During the times we do not meet over Google Meet we communicate via Slack and have a shared google doc that each member can edit at any given time. Meetings for Monday and Wednesday generally last 2 hours while meetings on all other days generally last 1-2 hours. Communication via Slack is daily and each team member aids in helping other team members where problems may arise. This includes issue in code, issues in visualizations, issues with ETLs etc. 
 
 
 ## *Deliverable 1*
