@@ -71,14 +71,6 @@ Data was split into traning and testing groups on the "Count" section as we are 
 
 The models chosen for Machine Learning were the BalancedRandomForestClassifier and Easy Ensemble (Adaboost) Classifier, both of which impliment ensemble learning. Both were used in conjuction with supervised learning. Both Ensemble and Supervised Learning are discussed below.
 
-Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. Dataframes were created and merged together, unnecessary columns and rows with null-values were removed. After all data was procesed, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning. 
-
-Data features were chosen based on what was being tested. Data features were wittled down to co2 emissions, co2 emissions per capta, event type, year, month, and count. Data dealing with population and other specifics were created separatley for visualization purposes. 
-
-Data was split into traning and testing groups on the "Count" section as we are testing to see if our machine learning algorithms can accurately predict the number of events that occur for each event type as a result of co2 emissions.
-
-The models chosen were the BalancedRandomForestClassifier and Easy Ensemble (Adaboost) Classifier, both of which impliment ensemble learning. Both were used in conjuction with supervised learning. Both Ensemble and Supervised Learning are discussed below.
-
 
 ### Ensemble Learning
 
