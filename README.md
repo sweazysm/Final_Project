@@ -31,11 +31,6 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
 We are working on creating our presentation on Google Slides. https://docs.google.com/presentation/d/1YUyPBFRM54EqJKVPtjYYwc6CXtDkhKhry5Eujj84ILs/edit?usp=sharing
 
 
-
-### Google Slides
-We are working on creating our presentation on Google Slides. https://docs.google.com/presentation/d/1YUyPBFRM54EqJKVPtjYYwc6CXtDkhKhry5Eujj84ILs/edit?usp=sharing
-
-
 # *Database*
   
 - A PostgreSQL instance has been created on the Google Cloud platform.
