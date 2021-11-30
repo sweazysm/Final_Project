@@ -26,6 +26,12 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
   - Storm Events Data was used because it yielded specific Severe Weather Events that could be counted and organized. This allows us to expand upon data to deliver answers such as, "What Severe Weather event occured the most in Texas in 1977?" The specificity of our data has increased as a result.
   - The C02 Data from OWID/GitHub was used because it gave us C02 emissions by country across years in a simple and concise format. This was combined with The World Bank's C02 data to create a more useful Dataframe to use.
 
+
+### Google Slides
+We are working on creating our presentation on Google Slides. https://docs.google.com/presentation/d/1YUyPBFRM54EqJKVPtjYYwc6CXtDkhKhry5Eujj84ILs/edit?usp=sharing
+
+
+
 ### Google Slides
 We are working on creating our presentation on Google Slides. https://docs.google.com/presentation/d/1YUyPBFRM54EqJKVPtjYYwc6CXtDkhKhry5Eujj84ILs/edit?usp=sharing
 
@@ -40,7 +46,6 @@ We are working on creating our presentation on Google Slides. https://docs.googl
   
 ![DatabaseDiagram2](https://user-images.githubusercontent.com/85706721/143723725-ff1f0c67-beaf-452f-916e-c0c6f89992d4.png)
 
-
 # *Machine Learning*  
 
 - Machine learning models are set up based on the combined datasets of co2 emissions and severe weather
@@ -48,6 +53,23 @@ We are working on creating our presentation on Google Slides. https://docs.googl
 - Machine learning algorithms to be tested are imblearn.ensemble's "RandomForestClassifier" and "Easy Ensemble (Adaboost) Classifier"
 
 ### Preliminary Data Processing, Data Engineering, Features, Training and Testing
+
+
+#### Preliminary Data Processing/Preprocessing
+
+Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. We removed columns and rows that included data that we were not going to use such as information on gas, cement, metals, null values etc. After all data was procesed and uncessary data dropped, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning algorithms were initiated. 
+
+#### Feature Engineering
+
+Data features were chosen based on what was being tested. Data features were wittled down to co2 emissions, co2 emissions per capta, event type, year, month, and count. From this we pulled out severe weather events such as Blizzards and Tornadoes. Data dealing with population and other specifics were created separatley for visualization purposes. Once all data was cleaned and all necessary features were shown in the dataframe the data was then ready to be moved into the Machine Learning phase.
+
+#### Training and Testing Groups
+
+Data was split into traning and testing groups on the "Count" section as we are testing to see if our machine learning algorithms can accurately predict the number of events that occur for each event type as a result of co2 emissions. We had counts for each event type across the years, such as 80 Tornoadoes in 1977.
+
+## Model Choice (Machine Learning Algorithms)
+
+The models chosen for Machine Learning were the BalancedRandomForestClassifier and Easy Ensemble (Adaboost) Classifier, both of which impliment ensemble learning. Both were used in conjuction with supervised learning. Both Ensemble and Supervised Learning are discussed below.
 
 Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. Dataframes were created and merged together, unnecessary columns and rows with null-values were removed. After all data was procesed, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning. 
 
@@ -66,6 +88,25 @@ Our project deals with predictive outcomes. Specifically, which machine learning
 
 Our project's ML algorithms will focus on Supervised Learning. Supervised Learning essentially deals with feeding a ML algorithm inputs and outputs from a set of data in order to teach it. From this data, the ML algorithm then does it's best to predict future outcomes. With this we will feed the ML algorithm, specifically an Ensemble Learner, Supervised Learning data from a good portion of our whole data set. From this we will then determine which ML algorithm makes the best predictions based on the actual data that we have.
 
+
+### Limitations
+
+The biggest limitation to what is being done (in regards to Machine Learning) is that we are limited only to the data fed into the machine learning algorithm. Because we are using Supervised Learning, it is limited to using only the patterns fed into it. It cannot learn patterns on its own that are not classified or labeled. If an event arises that is not accounted for, it cannot be learned. When it comes to ensemble learning, ensemble learning models cannot work with unknown differences between sample and population.
+
+### Model Changes
+
+Originally we had decided to use Linear Regression Models along with the BalancedRandomForestClassifier. Linear Regression Models are focused on finding the relation between a predictor variable(s) and an outcome variable(s). While our visualizations show that as population increases so does co2 emissions, we were specifially looking to see if our Machine Learning Model(s) could predict the trends rather than the outcomes. While our additional graphs deal with variables such as population and country, the Machine Learning is specifically looking at predicting the accuracy of predicting the reported trend(s). As a result, Linear Regression Model was not used.
+
+### Training
+
+The models were trained on the data in regards to event type counts and carbon emission data. Our training and test split was on the "Count" of Event Types that occured as a result of co2 emissions. We want to see if the Machine Learning models can accurately predict the relation and the trends of what our data has shown. If co2 emissions led to 200 Severe Weather Events in 2015, for example, can the Machine Learning model that has been trained on data from 1950 to 2000 accurately predict the actual trend(s).
+
+
+# *Dashboard*  
+
+The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.  The visualizations will be added to a dashboard and shown on Google Slides.
+
+
 ### Limitations
 
 The biggest limitation to what is being done (in regards to Machine Learning) is that we are limited only to the data fed into the machine learning algorithm. Because we are using Supervised Learning, it is limited to using only the patterns fed into it. It cannot learn patterns on its own that are not classified or labeled. If an event arises that is not accounted for, it cannot be learned. When it comes to ensemble learning, ensemble learning models cannot work with unknown differences between sample and population.
@@ -74,6 +115,7 @@ The biggest limitation to what is being done (in regards to Machine Learning) is
 # *Dashboard*  
 
 The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.  The visualizations will be added to a dashboard and shown on Google Slides.
+
 
 <p width="800" heigth="600" align="center">
 <img src = "https://user-images.githubusercontent.com/86750935/142520835-eaf50629-ec6c-40d7-8348-fd5b4056e30f.PNG" width="800" heigth="600" align="center">
@@ -151,3 +193,4 @@ We all plan to meet Monday through Thursday evenings and Saturday afternoons, th
 - Helped on the decision on Emsemble Learning and Supervised Learning
 - Researched Machine Learning algorithms to determine best one(s) to be used
 - Updated Machine Learning code to pull data from the database instead of CSV files
+
