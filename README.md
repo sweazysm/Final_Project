@@ -52,7 +52,7 @@ We are working on creating our presentation on Google Slides. https://docs.googl
 
 #### Preliminary Data Processing/Preprocessing
 
-Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. We removed columns and rows that included data that we were not going to use such as information on gas, cement, metals, null values etc. After all data was procesed and uncessary data dropped, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning algorithms were initiated. 
+Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via Pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. We removed columns and rows that included data that we were not going to use such as information on gas, cement, metals, null values etc. After all data was processed and uncessary data dropped, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning algorithms were initiated. 
 
 #### Feature Engineering
 
