@@ -31,7 +31,7 @@ Carbon (co2) emmisions effects on the environment has risen dramatically over th
 We are working on creating our presentation on Google Slides. https://docs.google.com/presentation/d/1YUyPBFRM54EqJKVPtjYYwc6CXtDkhKhry5Eujj84ILs/edit?usp=sharing
 
 
-# *Database*
+## *Database*
   
 - A PostgreSQL instance has been created on the Google Cloud platform.
 - Connection from our local pgAdmin to the Google Cloud PostgreSQL instance has been established.
@@ -41,7 +41,7 @@ We are working on creating our presentation on Google Slides. https://docs.googl
   
 ![DatabaseDiagram2](https://user-images.githubusercontent.com/85706721/143723725-ff1f0c67-beaf-452f-916e-c0c6f89992d4.png)
 
-# *Machine Learning*  
+## *Machine Learning*  
 
 - Machine learning models are set up based on the combined datasets of co2 emissions and severe weather
 - Data sets were joined on the "Year" column
@@ -62,7 +62,7 @@ Data features were chosen based on what was being tested. Data features were wit
 
 Data was split into traning and testing groups on the "Count" section as we are testing to see if our machine learning algorithms can accurately predict the number of events that occur for each event type as a result of co2 emissions. We had counts for each event type across the years, such as 80 Tornoadoes in 1977.
 
-## Model Choice (Machine Learning Algorithms)
+### Model Choice (Machine Learning Algorithms)
 
 The models chosen for Machine Learning were the BalancedRandomForestClassifier and Easy Ensemble (Adaboost) Classifier, both of which impliment ensemble learning. Both were used in conjuction with supervised learning. Both Ensemble and Supervised Learning are discussed below.
 
@@ -89,7 +89,7 @@ Originally we had decided to use Linear Regression Models along with the Balance
 The models were trained on the data in regards to event type counts and carbon emission data. Our training and test split was on the "Count" of Event Types that occured as a result of co2 emissions. We want to see if the Machine Learning models can accurately predict the relation and the trends of what our data has shown. If co2 emissions led to 200 Severe Weather Events in 2015, for example, can the Machine Learning model that has been trained on data from 1950 to 2000 accurately predict the actual trend(s).
 
 
-# *Dashboard*  
+## *Dashboard*  
 
 The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.  The visualizations will be added to a dashboard and shown on Google Slides.
 
