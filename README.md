@@ -4,7 +4,7 @@
 
 
 ## Selected topic: 
-Carbon emmissions effects on severe weather events in the United States
+Carbon emissions effects on severe weather events in the United States
 
 ## Reason why the topic was selected: 
 
