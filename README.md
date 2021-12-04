@@ -46,31 +46,31 @@ We are working on creating our presentation on Google Slides. https://docs.googl
 
 - Machine learning models are set up based on the combined datasets of co2 emissions and severe weather
 - Data sets were joined on the "Year" column
-- Machine learning algorithms to be tested are imblearn.ensemble's "RandomForestClassifier" and "Easy Ensemble (Adaboost) Classifier"
+- Machine learning algorithms to be tested are imblearn.ensemble's "RandomForestClassifier”, "Easy Ensemble (Adaboost) Classifier”, and “RandomForest Regressor”
 
 ### Preliminary Data Processing, Data Engineering, Features, Training and Testing
 
 
 #### Preliminary Data Processing/Preprocessing
 
-Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via Pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later wittled down to necessary dataframes. We removed columns and rows that included data that we were not going to use such as information on gas, cement, metals, null values etc. After all data was processed and uncessary data dropped, data was combined into a single dataframe and dtypes were tested to ensure proper values before machine learning algorithms were initiated. 
+Data was processed from the 3 data sources listed above. Data was imported into Jupyter Notebook via Pandas and csv files were broken down into categories ranging from event types, years, months, emissions etc. Many preliminary datasets were made. Datasets were later whittled down to necessary data frames. We removed columns and rows that included data that we were not going to use such as information on gas, cement, metals, null values etc. After all data was processed and unecessary data dropped, data was combined into a single data frame and dtypes were tested to ensure proper values before machine learning algorithms were initiated. 
 
 #### Feature Engineering
 
-Data features were chosen based on what was being tested. Data features were wittled down to co2 emissions, co2 emissions per capta, event type, year, month, and count. From this we pulled out severe weather events such as Blizzards and Tornadoes. Data dealing with population and other specifics were created separatley for visualization purposes. Once all data was cleaned and all necessary features were shown in the dataframe the data was then ready to be moved into the Machine Learning phase.
+Data features were chosen based on what was being tested. Data features were whittled down to co2 emissions, co2 emissions per capita, event type, year, month, and count. From this we pulled out severe weather events such as Blizzards and Tornadoes. Data dealing with population and other specifics were created separately for visualization purposes. Once all data was cleaned and all necessary features were shown in the data frame the data was then ready to be moved into the Machine Learning phase.
 
 #### Training and Testing Groups
 
-Data was split into traning and testing groups on the "Count" section as we are testing to see if our machine learning algorithms can accurately predict the number of events that occur for each event type as a result of co2 emissions. We had counts for each event type across the years, such as 80 Tornoadoes in 1977.
+Data was split into training and testing groups on the "Count" section as we are testing to see if our machine learning algorithms can accurately predict the number of events that occur for each event type as a result of co2 emissions. We had counts for each event type across the years, such as 80 Tornoados in 1977.
 
 ### Model Choice (Machine Learning Algorithms)
 
-The models chosen for Machine Learning were the BalancedRandomForestClassifier and Easy Ensemble (Adaboost) Classifier, both of which impliment ensemble learning. Both were used in conjuction with supervised learning. Both Ensemble and Supervised Learning are discussed below.
+The models chosen for Machine Learning were the BalancedRandomForestClassifier, Easy Ensemble (Adaboost) Classifier, and RandomForestRegressor. All of these implemented ensemble learning. All were used in conjunction with supervised learning. Both Ensemble and Supervised Learning are discussed below.
 
 
 ### Ensemble Learning
 
-Our project deals with predictive outcomes. Specifically, which machine learning algorithm has the best predictive outcome when compared to the actual data. We train an algorithm on a chunk of the data and then see how best it's predictions line up with the actual data set. From this, it is best advised to use Ensemble Learning (EL). EL deals with multiple algorithms in order to obtain the best predictions of a set(s) of data as opposed to using one ML algorithm alone. In the vein of EL we implimented ML algorithsm such as RandomBasicForestClassifier and AdaBoost in order to determine predictive performance.
+Our project deals with predictive outcomes. Specifically, which machine learning algorithm has the best predictive outcome when compared to the actual data. We train an algorithm on a chunk of the data and then see how best it's predictions line up with the actual data set. From this, it is best advised to use Ensemble Learning (EL). EL deals with multiple algorithms in order to obtain the best predictions of a set(s) of data as opposed to using one ML algorithm alone. In the vein of EL we implemented ML algorithims such as RandomBasicForestClassifier and AdaBoost in order to determine predictive performance.
 
 ### Supervised Learning
 
@@ -83,11 +83,13 @@ The biggest limitation to what is being done (in regards to Machine Learning) is
 
 ### Model Changes
 
-Originally we had decided to use Linear Regression Models along with the BalancedRandomForestClassifier. Linear Regression Models are focused on finding the relation between a predictor variable(s) and an outcome variable(s). While our visualizations show that as population increases so does co2 emissions, we were specifially looking to see if our Machine Learning Model(s) could predict the trends rather than the outcomes. While our additional graphs deal with variables such as population and country, the Machine Learning is specifically looking at predicting the accuracy of predicting the reported trend(s). As a result, Linear Regression Model was not used.
+Originally we had decided to use Linear Regression Models along with the BalancedRandomForestClassifier. Linear Regression Models are focused on finding the relation between a predictor variable(s) and an outcome variable(s). While our visualizations show that as population increases so does co2 emissions, we were specifically looking to see if our Machine Learning Model(s) could predict the trends rather than the outcomes. While our additional graphs deal with variables such as population and country, the Machine Learning is specifically looking at predicting the accuracy of predicting the reported trend(s). As a result, Linear Regression Model was not used. This also limited us from using models such as SMOTEEN and Clusteroids as those use Linear Regression models. Other ML algorithms were tested with models other than Linear Regression, but to no avail. 
+
+As well, we implemented two deep learning models. -Amilcar types here-
 
 ### Training
 
-The models were trained on the data in regards to event type counts and carbon emission data. Our training and test split was on the "Count" of Event Types that occured as a result of co2 emissions. We want to see if the Machine Learning models can accurately predict the relation and the trends of what our data has shown. If co2 emissions led to 200 Severe Weather Events in 2015, for example, can the Machine Learning model that has been trained on data from 1950 to 2000 accurately predict the actual trend(s).
+The models were trained on the data in regards to event type counts and carbon emission data. Our training and test split was on the "Count" of Event Types that occurred as a result of co2 emissions. We want to see if the Machine Learning models can accurately predict the relation and the trends of what our data has shown. If co2 emissions led to 200 Severe Weather Events in 2015, for example, can the Machine Learning model that has been trained on data from 1950 to 2000 accurately predict the actual trend(s).
 
 
 ## *Dashboard*  
