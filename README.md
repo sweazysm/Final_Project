@@ -4,7 +4,8 @@
 
 
 ## Selected topic: 
-Carbon emissions effects on severe weather events in the United States
+Carbon emissions effects on severe weather events in the United States.
+Can we predict the number of Severe Weather Events based on co2 emissions?
 
 ## Reason why the topic was selected: 
 
