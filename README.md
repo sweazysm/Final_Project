@@ -78,8 +78,14 @@ Our project's ML algorithms will focus on Supervised Learning. Supervised Learni
 
 ### Deep Learning with Neural Networks
 
-Our project also used Deep Learning with a Neural Network. Still using the same data set as the other machine learning algorithms, but using a OneHotEncoder instance with a categorical variable list based on 54 different severe weather event types. Our target was the number of severe weather events, and the features were the different severe weather events in our categorical variable list, year, month, and co2 emissions. Our neural network has 2 hidden layers, with the first layer having 8 nodes, and the second layer having 5 nodes.  Our hidden layers used 'ReLu' activation and our output layer used 'sigmoid' activation.  We also tried 'leaky ReLu' for our hidden layers, 
+Our project also used Deep Learning with a Neural Network. Still using the same data set as the other machine learning algorithms, but using a OneHotEncoder instance with a categorical variable list based on 54 different severe weather event types. Our target was the number of severe weather events, and the features were the different severe weather events in our categorical variable list, year, month, and co2 emissions. Our neural network has 2 hidden layers, with the first layer having 8 nodes, and the second layer having 5 nodes.  Our hidden layers used 'ReLu' activation and our output layer used 'sigmoid' activation.  
 
+We also tried 'leaky ReLu' and 'tanh' activations for our hidden layers, but the accuracy score went down so we stuck with 'ReLu' and 'sigmoid'.  We also tried a variety of number of nodes in the hidden layers, and the number of layers, but this did not change our accuracy score or made it worse.  Changing the number of epochs also did not seem to have an effect on accuracy.  We tried 50, 100, 200, and 500 epochs and all resulted in very similar scores.
+
+We ended up with an accuracy score of 0.094 which is quite low and can mean one of a few things. 
+1. The data doesnt have a correlation. 
+2. We are not using the right data.
+3. We need more or less data. 
 
 ### Limitations
 
