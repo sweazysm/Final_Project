@@ -111,7 +111,12 @@ The visualization software known as "Tableau" will be used to create visualizati
 ![draft2](https://user-images.githubusercontent.com/86750935/144114028-d3e42567-da20-49a6-83aa-772dcbc743b6.PNG)
 
 
-![draft3](https://user-images.githubusercontent.com/86750935/144113996-04596d98-fe2d-4f6b-8b28-25fed9f20099.PNG)
+![image](https://user-images.githubusercontent.com/86750935/144763664-cb62f68a-a819-49bd-b0d8-63453f006314.png)
+
+![image](https://user-images.githubusercontent.com/86750935/144763691-08b04e56-ba01-4152-9c06-6940a2baa69e.png)
+
+![image](https://user-images.githubusercontent.com/86750935/144763720-a198917a-bd14-4785-8bf4-620e7ba9d3a7.png)
+
 
 
 
