@@ -76,6 +76,10 @@ Our project deals with predictive outcomes. Specifically, which machine learning
 
 Our project's ML algorithms will focus on Supervised Learning. Supervised Learning essentially deals with feeding a ML algorithm inputs and outputs from a set of data in order to teach it. From this data, the ML algorithm then does it's best to predict future outcomes. With this we will feed the ML algorithm, specifically an Ensemble Learner, Supervised Learning data from a good portion of our whole data set. From this we will then determine which ML algorithm makes the best predictions based on the actual data that we have.
 
+### Deep Learning with Neural Networks
+
+Our project also used Deep Learning with a Neural Network. Still using the same data set as the other machine learning algorithms, but using a OneHotEncoder instance with a categorical variable list based on 54 different severe weather event types. Our target was the number of severe weather events, and the features were the different severe weather events in our categorical variable list, year, month, and co2 emissions. Our neural network has 2 hidden layers, with the first layer having 8 nodes, and the second layer having 5 nodes.  Our hidden layers used 'ReLu' activation and our output layer used 'sigmoid' activation.  We also tried 'leaky ReLu' for our hidden layers, 
+
 
 ### Limitations
 
