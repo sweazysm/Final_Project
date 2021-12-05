@@ -105,6 +105,9 @@ The models were trained on the data in regards to event type counts and carbon e
 
 The visualization software known as "Tableau" will be used to create visualizations showing trends/patterns in the data.  The visualizations will be added to a dashboard and shown on Google Slides.
 
+https://public.tableau.com/views/CarbonEmissionsandSevereWeather/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
 ![draft1](https://user-images.githubusercontent.com/86750935/144114067-f0c30390-38da-4a0e-a817-58eb64f4712d.PNG)
 
 
