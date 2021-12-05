@@ -95,7 +95,6 @@ The biggest limitation to what is being done (in regards to Machine Learning) is
 
 Originally we had decided to use Linear Regression Models along with the BalancedRandomForestClassifier. Linear Regression Models are focused on finding the relation between a predictor variable(s) and an outcome variable(s). While our visualizations show that as population increases so does co2 emissions, we were specifically looking to see if our Machine Learning Model(s) could predict the trends rather than the outcomes. While our additional graphs deal with variables such as population and country, the Machine Learning is specifically looking at predicting the accuracy of predicting the reported trend(s). As a result, Linear Regression Model was not used. This also limited us from using models such as SMOTEEN and Clusteroids as those use Linear Regression models. Other ML algorithms were tested with models other than Linear Regression, but to no avail. 
 
-As well, we implemented two deep learning models. -Amilcar types here-
 
 ### Training
 
@@ -183,11 +182,21 @@ The visualization software known as "Tableau" will be used to create visualizati
   ### *Deliverable 3*
   
   #### Scott Sweazy
+  - Pogchamp
+  - Updated Machine Learning Code
+  - Cleaned up code for Data Preprocessing and Machine Learning 
+  - Contributed to speaker notes on Google Slides
+  - Helped team members research necessary information for data processing and machine learning algorithms 
   
   #### Shalmalee Soman
   * created the first draft of Tableau story
   * contributed to ReadME
   * edited and committed changes to the data visaluizations
-  #### Cindy McCracken
+  * - egg
+ 
   
   #### Amilcar Vargas
+  - Spiritual Guidance
+  
+  #### Cindy McCraken
+  - Philosophical Juggernaut
