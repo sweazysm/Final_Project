@@ -207,4 +207,7 @@ https://public.tableau.com/views/CarbonEmissionsandSevereWeather/Story1?:languag
   - Spiritual Guidance
   
   #### Cindy McCraken
-  - Philosophical Juggernaut
+  - Helped review machine learning models
+  - Worked on Google Slides
+  - Contributed to visualizations
+  - Updated Readme
