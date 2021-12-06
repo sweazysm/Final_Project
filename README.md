@@ -187,27 +187,27 @@ https://public.tableau.com/views/CarbonEmissionsandSevereWeather/Story1?:languag
 - Updated Machine Learning code to pull data from the database instead of CSV files
 
 
-  ### *Deliverable 3*
+ ### *Deliverable 3*
   
-  #### Scott Sweazy
-  - Pogchamp
-  - Updated Machine Learning Code
-  - Cleaned up code for Data Preprocessing and Machine Learning 
-  - Contributed to speaker notes on Google Slides
-  - Helped team members research necessary information for data processing and machine learning algorithms 
+ #### Scott Sweazy
+ - Pogchamp
+ - Updated Machine Learning Code
+ - Cleaned up code for Data Preprocessing and Machine Learning 
+ - Contributed to speaker notes on Google Slides
+ - Helped team members research necessary information for data processing and machine learning algorithms 
   
-  #### Shalmalee Soman
-  * created the first draft of Tableau story
-  * contributed to ReadME
-  * edited and committed changes to the data visualizations
+ #### Shalmalee Soman
+ - created the first draft of Tableau story
+ - contributed to ReadME
+ - edited and committed changes to the data visualizations
 
  
   
-  #### Amilcar Vargas
+ #### Amilcar Vargas
   - Spiritual Guidance
   
-  #### Cindy McCraken
-  - Helped review machine learning models
-  - Worked on Google Slides
-  - Contributed to visualizations
-  - Updated Readme
+ #### Cindy McCraken
+ - Helped review machine learning models
+ - Worked on Google Slides
+ - Contributed to visualizations
+ - Updated Readme
