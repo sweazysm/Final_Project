@@ -201,10 +201,12 @@ https://public.tableau.com/views/CarbonEmissionsandSevereWeather/Story1?:languag
  - contributed to ReadME
  - edited and committed changes to the data visualizations
 
- 
-  
  #### Amilcar Vargas
-  - Spiritual Guidance
+  - Created Deep Learning Code
+  - Modified Machine Learning code to pull data from database
+  - contributed to ReadMe
+  - contributed to Google Slides
+  - found and added population data to the database
   
  #### Cindy McCraken
  - Helped review machine learning models
