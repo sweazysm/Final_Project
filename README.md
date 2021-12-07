@@ -9,12 +9,12 @@ Can we predict the number of Severe Weather Events based on co2 emissions?
 
 ## Reason why the topic was selected: 
 
-Carbon (co2) emissions effects on the environment has risen dramatically over the last few decades, and we intend to show this with our data.  We intend to show that the human population and economic ranking of a country is closely related to said country's output of carbon emissions.  We want to show a correlation between world-wide emissions and severe weather in the United States by using machine learning algorithms predict weather events. The topic of co2 has come back into the public eye, amongst many reasons, due to the shutdown of the world in 2020. Co2 emission levels plumeted as humanity was forced to quarantine. Nature returned to flourish and carbon emission levels began to take a dive. It is not something that often crosses one's mind when going throughout daily life, only perhaps when choosing options that are labled as "environmentally friendly" or the like. Despite our aloofness, small changes towards and againist co2 emissions have effects, and one of the things affected is the weather. In particular, severe weather. Lightning, blizzards, tornadoes etc. Does this increase in co2 emissions correlate to increased severe weather events? Can we predict this using Machine Learning? Lets find out! 
+Carbon (co2) emissions effects on the environment has risen dramatically over the last few decades, and we intend to show this with our data.  We intend to show that the human population and economic ranking of a country is closely related to said country's output of carbon emissions.  We want to show a correlation between world-wide emissions and severe weather in the United States by using machine learning algorithms predict weather events. The topic of co2 has come back into the public eye, amongst many reasons, due to the shutdown of the world in 2020. Co2 emission levels plummeted as humanity was forced to quarantine. Nature returned to flourish and carbon emission levels began to take a dive. It is not something that often crosses one's mind when going throughout daily life, only perhaps when choosing options that are labeled as "environmentally friendly" or the like. Despite our aloofness, small changes towards and against co2 emissions have effects, and one of the things affected is the weather. In particular, severe weather. Lightning, blizzards, tornadoes etc. Does this increase in co2 emissions correlate to increased severe weather events? Can we predict this using Machine Learning? Let's find out! 
 
 ## Questions to answer:              
-- Does Worldwide carbon emissions have an effect on severe weather in the United States?
+- Does Worldwide carbon emissions influence severe weather in the United States?
 - How does the population of a country effect the output of carbon emissions?
-- Does the emissions from the United States have a stronger impact on the U.S. weather than world emissions?  
+- Do the emissions from the United States have a stronger impact on the U.S. weather than world emissions?  
 
 ## *Data Sources*  
   #### Available Files
