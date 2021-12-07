@@ -1,5 +1,6 @@
 # Carbon Emissions and Severe Weather: Is It Raining Cats and Dogs?
 
+
 ## *Presentation*
 
 
@@ -120,9 +121,7 @@ https://public.tableau.com/views/CarbonEmissionsandSevereWeather/Story1?:languag
 
 ![image](https://user-images.githubusercontent.com/86750935/144763720-a198917a-bd14-4785-8bf4-620e7ba9d3a7.png)
 
-Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world Co2 emissions vs U.S. Severe Weather Events
-
-
+Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world Co2 emissions vs U.S. Severe Weather Events. There was not enough evidence in the machine learning to prove the accuracy of a correlation between the two, there is a clear upward trend of when co2 in the United States or overall world Co2 emissions increase, so do severe weather events in the U.S.
 
 
 ## *Deliverable 1*
@@ -170,8 +169,8 @@ Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world
   
 #### Shalmalee Soman
 - Updated ReadMe
-- Upddated Google Slides
-- Created new visualizations
+- Updated Google Slides
+- Created visualizations merging datasets on Tableau
 - Started a dashboard
   
 #### Cindy McCracken
