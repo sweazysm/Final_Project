@@ -111,10 +111,16 @@ https://public.tableau.com/views/Co2EmissonsandSevereWeather/Story1?:language=en
 
 ![draft2](https://user-images.githubusercontent.com/86750935/144114028-d3e42567-da20-49a6-83aa-772dcbc743b6.PNG)
 
+interactive dashboard which lets user chose which specific event type and specific state
 
 ![image](https://user-images.githubusercontent.com/86750935/144763664-cb62f68a-a819-49bd-b0d8-63453f006314.png)
 
+interatice map to let user chose event type, severe weather year(s), and specific state.
+
 ![image](https://user-images.githubusercontent.com/86750935/144763691-08b04e56-ba01-4152-9c06-6940a2baa69e.png)
+
+Graph thhat shows positive corellation between population increease and increase of c02 emissions
+
 
 ![image](https://user-images.githubusercontent.com/86750935/144763720-a198917a-bd14-4785-8bf4-620e7ba9d3a7.png)
 
