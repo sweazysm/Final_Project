@@ -108,8 +108,6 @@ The visualization software known as "Tableau" will be used to create visualizati
 
 https://public.tableau.com/views/Co2EmissonsandSevereWeather/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link\
 
-![draft1](https://user-images.githubusercontent.com/86750935/144114067-f0c30390-38da-4a0e-a817-58eb64f4712d.PNG)
-
 
 ![draft2](https://user-images.githubusercontent.com/86750935/144114028-d3e42567-da20-49a6-83aa-772dcbc743b6.PNG)
 
