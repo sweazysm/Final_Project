@@ -210,8 +210,39 @@ Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world
   - contributed to Google Slides
   - found and added population data to the database
   
- #### Cindy McCraken
+ #### Cindy McCracken
  - Helped review machine learning models
  - Worked on Google Slides
  - Contributed to visualizations
  - Updated Readme
+ 
+ 
+ ### *Deliverable 4*
+ 
+ #### Cindy McCracken
+ 
+ -worked on dashboard finalizations
+ -finalized google slides
+ -inserted speaker notes
+ --practiced presentation
+
+ #### Amilcar Vargas
+ 
+ -worked on dashboard finalizations
+ -finalized google slides
+ -inserted speaker notes
+ -practiced presentation
+
+ #### Scott Sweazy
+ 
+ -worked on dashboard finalizations
+ -finalized google slides
+ -inserted speaker notes
+ -practiced presentation
+
+ #### Shalmalee Soman
+ 
+ -worked on dashboard finalizations
+ -finalized google slides
+ -inserted speaker notes
+ --practiced presentation
