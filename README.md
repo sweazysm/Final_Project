@@ -221,28 +221,28 @@ Comparison of U.S. Co2 emissions vs U.S severe weather events, and overall world
  
  #### Cindy McCracken
  
- -worked on dashboard finalizations
- -finalized google slides
- -inserted speaker notes
- --practiced presentation
+ - worked on dashboard finalizations
+ - finalized google slides
+ - inserted speaker notes
+ - practiced presentation
 
  #### Amilcar Vargas
  
- -worked on dashboard finalizations
- -finalized google slides
- -inserted speaker notes
- -practiced presentation
+ - worked on dashboard finalizations
+ - finalized google slides
+ - inserted speaker notes
+ - practiced presentation
 
  #### Scott Sweazy
  
- -worked on dashboard finalizations
- -finalized google slides
- -inserted speaker notes
- -practiced presentation
+ - worked on dashboard finalizations
+ - finalized google slides
+ - inserted speaker notes
+ - practiced presentation
 
  #### Shalmalee Soman
  
- -worked on dashboard finalizations
- -finalized google slides
- -inserted speaker notes
- --practiced presentation
+ - worked on dashboard finalizations
+ - finalized google slides
+ - inserted speaker notes
+ - practiced presentation
